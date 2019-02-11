@@ -20,6 +20,7 @@
 ```sh
 # check development environment
 $ cmake --version
+#Проверка версии cur1
 $ curl --version
 $ git --version
 $ g++ --version
