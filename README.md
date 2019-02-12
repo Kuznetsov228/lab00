@@ -15,6 +15,7 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
+Проверка окружения для разработки('cmake', 'curl', 'git', 'g++', 'hub', 'make', 'subl', 'tree', 'wget', 'openssl')
 
 #check development environment
 #Проверка версии cmake
@@ -23,19 +24,19 @@ $ cmake --version
 
 #Проверка версии curl 
 $ curl --version
-//curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0
+// curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0
 
 #Проверка версии git
 $ git --version
-//git version 2.1.4
+// git version 2.1.4
 
 #Проверка версии g++
 $ g++ --version
-//g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+// g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
 
 #Проверка версии hub
 $ hub --version
-//hub version 2.8.4
+// hub version 2.8.4
 
 #Проверка версии make
 $ make --version
