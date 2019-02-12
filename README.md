@@ -16,7 +16,7 @@
 
 ## Tutorial
 
-# check development environment
+#check development environment
 #Проверка версии cmake
 $ cmake --version
 // cmake version 3.14.0-rc1
